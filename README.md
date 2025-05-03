@@ -1,3 +1,3 @@
-[Emploi du temps SMI S4.pdf](https://github.com/user-attachments/files/20023607/Emploi.du.temps.SMI.S4.pdf)
-[Profil du Professeur.pdf](https://github.com/user-attachments/files/20023609/Profil.du.Professeur.pdf)
-[Programmation Web Dynamique - Plan du Cours.pdf](https://github.com/user-attachments/files/20023610/Programmation.Web.Dynamique.-.Plan.du.Cours.pdf)
+![Emploi du temps SMI](https://github.com/user-attachments/assets/41cd8fe7-3613-4862-9584-ee1bc80d90a8)
+![Profil du Professeur](https://github.com/user-attachments/assets/cf8fa080-f050-460c-8fbe-12fb96acef46)
+![Programmation Web Dynamique - Plan du Cours](https://github.com/user-attachments/assets/31e9f37b-532c-45b9-b863-cbd0f315e15b)
